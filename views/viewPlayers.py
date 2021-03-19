@@ -10,7 +10,7 @@ from models.players import Players
 print("~~~~~~~~~~~~~~~~~~Bienvenue à l'étape de création des joueurs~~~~~~~~~~~~~~~~~~~~~~~~~")
 print("Veillez saisir les informations suivantes")
 def creatPlayers(Players):
-    newPlayers = []
+newPlayers = []
     nom = (input("Nom du joueur : "))
     prenom = (input("Prénom du joueur : "))
     dateDeNaissance = (input("Son année de naissance : "))
