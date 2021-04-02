@@ -1,13 +1,19 @@
+
 #----------------------------------------------------------
 # Importation des modules
 #----------------------------------------------------------
 
 #----------------------------------------------------------
-# Création des controleurs
+# Création des controllers
 #----------------------------------------------------------
 
-class New_tourn():
+class Players_Add():
     """
-    Gestion du tournoir
+    Gestion  des joueurs
     """
-    pass
+    def __init___(self):
+        pass
+    
+    
+
+

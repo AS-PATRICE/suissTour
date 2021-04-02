@@ -1,0 +1,40 @@
+{
+    "players": {
+        "1": {
+            "Name": "Bordas",
+            "base_Ranking": 0,
+            "born": "12-2-1983",
+            "first_Name": "Jean",
+            "gender": "M",
+            "ranking": "M",
+            "score": 0
+        },
+        "2": {
+            "Name": "Andrieux",
+            "base_Ranking": 0,
+            "born": "1975",
+            "first_Name": "Philippe",
+            "gender": "M",
+            "ranking": "M",
+            "score": 0
+        },
+        "3": {
+            "Name": "Jacquemain",
+            "base_Ranking": 0,
+            "born": "2000",
+            "first_Name": "Louis",
+            "gender": "M",
+            "ranking": "M",
+            "score": 0
+        },
+        "4": {
+            "Name": "",
+            "base_Ranking": 0,
+            "born": "",
+            "first_Name": "",
+            "gender": "",
+            "ranking": "",
+            "score": 0
+        }
+    }
+}

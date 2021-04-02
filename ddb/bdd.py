@@ -23,10 +23,7 @@ serialized_player = {
     "score" : Players.score
 }
 #charger la liste de joueur dans la table de player
-db = TinyDB("db.json")
-players_table = db.table("players")# le nom de la table est players
-players_table.truncate() # clear the table first
-players_table.insert_multiple(serialized_player)
+
 
 
 #sérialisation de l'instance Tournement
